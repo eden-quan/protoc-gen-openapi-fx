@@ -1,5 +1,5 @@
 //module github.com/google/gnostic
-module github.com/sinsay/protoc-gen-openapi-fx
+module github.com/eden-quan/protoc-gen-openapi-fx
 
 go 1.12
 

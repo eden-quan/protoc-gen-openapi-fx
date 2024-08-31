@@ -23,7 +23,7 @@ import (
 
 	v3 "github.com/google/gnostic/openapiv3"
 
-	wk "github.com/sinsay/protoc-gen-openapi-fx/generator/wellknown"
+	wk "github.com/eden-quan/protoc-gen-openapi-fx/generator/wellknown"
 )
 
 const (

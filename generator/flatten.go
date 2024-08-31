@@ -4,7 +4,7 @@ import (
 	"google.golang.org/protobuf/compiler/protogen"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/sinsay/protoc-gen-openapi-fx/generator/meta"
+	"github.com/eden-quan/protoc-gen-openapi-fx/generator/meta"
 )
 
 type FlattenInfo struct {

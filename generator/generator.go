@@ -32,7 +32,7 @@ import (
 
 	v3 "github.com/google/gnostic/openapiv3"
 
-	wk "gitlab.lainuoniao.cn/eden-quan/protoc-gen-openapi-fx/generator/wellknown"
+	wk "gitlab.lainuoniao.cn/rhinobird/backend/protoc-gen-openapi-fx.git/generator/wellknown"
 )
 
 type Configuration struct {

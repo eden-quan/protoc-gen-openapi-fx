@@ -23,7 +23,7 @@ import (
 	"google.golang.org/protobuf/compiler/protogen"
 	"google.golang.org/protobuf/types/pluginpb"
 
-	"gitlab.lainuoniao.cn/eden-quan/protoc-gen-openapi-fx/generator"
+	"gitlab.lainuoniao.cn/rhinobird/backend/protoc-gen-openapi-fx.git/generator"
 )
 
 var flags flag.FlagSet

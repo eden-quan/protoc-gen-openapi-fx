@@ -1,5 +1,5 @@
 //module github.com/google/gnostic
-module gitlab.lainuoniao.cn/eden-quan/protoc-gen-openapi-fx
+module gitlab.lainuoniao.cn/rhinobird/backend/protoc-gen-openapi-fx.git
 
 go 1.12
 
